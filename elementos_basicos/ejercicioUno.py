@@ -1,0 +1,7 @@
+print("Bienvenido al programa de soluciones")
+a= float(input("Ingrese el valor de A:"))
+b= float(input("Ingrese el valor de B:"))
+c= float(input("Ingrese el valor de C:"))
+resultado= (a**3 *(b**2-2*a*c))/(2*b)
+print(f"El resultado es: {resultado}")
+print(f"Gracias por usarme, Vuelva pronto")
